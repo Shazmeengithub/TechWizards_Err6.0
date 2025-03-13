@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+pillow  # For PIL (Pillow is the actual package name)
+pypdf2
+google-api-core
